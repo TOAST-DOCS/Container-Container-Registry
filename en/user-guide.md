@@ -68,7 +68,7 @@ To login to user registry by using Docker command line (CLI), service appkey or 
 To check the address of user registry, go to **Container > Container Registry** and click **Registry Address**.
 
 ### Login to User Registry 
-To save or import container images to a certain environment, Docker command line is required. Login first to access user registry by using Docker CLI; login requires email address of TOAST user account, as well as service appkey, or integrated appkey of a project in which the Container Registry service is activated.   
+To save or import container images to a certain environment, Docker command line is required. Login first to access user registry by using Docker CLI; login requires email address of NHN Cloud user account, as well as service appkey, or integrated appkey of a project in which the Container Registry service is activated.   
 
 ```
 $ docker login {User registry address}
