@@ -68,7 +68,7 @@ Docker 명령줄 도구(CLI)를 이용해 사용자 레지스트리에 로그인
 사용자 레지스트리 주소는 **Container > Container Registry** 서비스 페이지의 **레지스트리 주소** 버튼을 클릭해 확인할 수 있습니다.
 
 ### 사용자 레지스트리 로그인
-컨테이너 이미지를 저장하거나, 원하는 환경으로 가져오려면 Docker CLI 도구를 이용해야 합니다. Docker CLI 도구를 이용해 사용자 레지스트리에 접근하려면 로그인을 해야 합니다. 로그인에 사용되는 정보는 TOAST 사용자 계정 이메일 주소와 서비스 Appkey 또는 Container Registry 서비스가 활성화된 프로젝트의 통합 Appkey입니다.
+컨테이너 이미지를 저장하거나, 원하는 환경으로 가져오려면 Docker CLI 도구를 이용해야 합니다. Docker CLI 도구를 이용해 사용자 레지스트리에 접근하려면 로그인을 해야 합니다. 로그인에 사용되는 정보는 NHN Cloud 사용자 계정 이메일 주소와 서비스 Appkey 또는 Container Registry 서비스가 활성화된 프로젝트의 통합 Appkey입니다.
 
 ```
 $ docker login {사용자 레지스트리 주소}
@@ -78,7 +78,7 @@ Login Succeeded
 ```
 
 > [참고]
-> docker login 명령으로 얻어지는 토큰의 최대 유효 시간은 12시간 입니다.
+> docker login 명령으로 얻는 토큰의 최대 유효 시간은 12시간입니다.
 
 ### 태그 생성
 
