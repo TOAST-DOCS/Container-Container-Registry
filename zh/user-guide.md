@@ -72,7 +72,7 @@ To save or import container images to a certain environment, Docker command line
 
 ```
 $ docker login {User registry address}
-Username: {Email address of TOAST user account}
+Username: {Email address of NHN Cloud user account}
 Password: {Appkey}
 Login Succeeded
 ```
