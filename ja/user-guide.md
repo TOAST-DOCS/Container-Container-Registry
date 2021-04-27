@@ -72,7 +72,7 @@ Dockerコマンドラインツール(CLI)を利用してユーザーレジスト
 
 ```
 $ docker login {ユーザーレジストリアドレス}
-Username: {TOASTユーザーアカウントメールアドレス}
+Username: {NHN Cloudユーザーアカウントメールアドレス}
 Password: {Appkey}
 Login Succeeded
 ```

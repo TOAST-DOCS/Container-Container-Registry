@@ -72,7 +72,7 @@ Docker 명령줄 도구(CLI)를 이용해 사용자 레지스트리에 로그인
 
 ```
 $ docker login {사용자 레지스트리 주소}
-Username: {TOAST 사용자 계정 이메일 주소}
+Username: {NHN Cloud 사용자 계정 이메일 주소}
 Password: {Appkey}
 Login Succeeded
 ```
